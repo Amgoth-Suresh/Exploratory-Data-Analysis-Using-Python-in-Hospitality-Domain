@@ -109,13 +109,6 @@ The notebook is organized into the following sections:
 - Add a `data_dictionary.md` describing all columns.  
 - Provide sample outputs/figures in a `reports/` folder.
 
-## 🤝 Contributing
-Issues and pull requests are welcome. Please open an issue to discuss major changes first.
-
-## 📄 License
-Specify a license (e.g., MIT) or remove this section if private.
-
----
 
 **Author:** Amgoth Suresh  
 **Notebook:** `hotels_analysis.ipynb`
